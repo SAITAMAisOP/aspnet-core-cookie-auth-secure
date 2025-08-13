@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApiAuthentication.ClientWithAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1a67d75b784c52ed6ffe0ec71e479ff8c5bd690")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApiAuthentication.ClientWithAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApiAuthentication.ClientWithAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
